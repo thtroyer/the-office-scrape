@@ -1,4 +1,4 @@
-# The Office Scrape
+# The Office Scraper
 ## (A simple scraping example project)
 
 Simple project I used to scrape data from a site using BeautifulSoup.  This project downloaded The Office transcript hosted on a fan site.
